@@ -41,7 +41,6 @@
 
 .videos__group {
   flex-grow: 3;
-  min-height: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,6 +49,7 @@
 }
 
 video {
+  min-height: 100vh;
   height: 600px;
   border-radius: 1rem;
   margin: 0.5rem;
