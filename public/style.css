@@ -41,6 +41,7 @@
 
 .videos__group {
   flex-grow: 3;
+  min-height: auto;
   display: flex;
   justify-content: center;
   align-items: center;
