@@ -49,7 +49,7 @@
 }
 
 video {
-  min-height: 100vh;
+  min-height: 10vh;
   height: 600px;
   border-radius: 1rem;
   margin: 0.5rem;
